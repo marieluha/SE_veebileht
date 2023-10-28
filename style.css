@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body {
+    background-color: #eee;
+}
+
+nav {
+    width: 100%;
+    height: 100px;
+    background-color: #fff;
+}
+
+ul {
+
+}
+
+ul li {
+    list-style: none;
+    display: inline-block;
+    float: left;
+    line-height: 100px;
+}
+ul li a{
+    display: block;
+    text-decoration: none;
+    font-size: 24px;
+    font-family: 'Courier New', Courier, monospace;
+    color: slategray;
+    padding: 0 20px;
+}
