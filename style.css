@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: #ffdb9f;
+    background-color: #f5e8d1;
 }
 .algus {
 nav {
@@ -87,12 +87,13 @@ th, td {
 .valmistamine {
     margin-left: 1px;
     margin-right: 20px;
+    text-align: justify;
 
 }
 
 #retsept1 h3 {
     font-size: 30px;
-    color: #ffdb9f;
+    color: #f5e8d1;
 }
 
 .pildid {
@@ -110,5 +111,9 @@ h3 {
 
 #retsept2 h3 {
     font-size: 50px;
-    color: #ffdb9f;
+    color: #f5e8d1;
+}
+
+#retsept3 h3 {
+    color: #f5e8d1
 }
