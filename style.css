@@ -60,6 +60,10 @@ h1 {
     margin-left: 60px
 }
 
+.soolane_list {
+    margin-left: 60px;
+}
+
 html {
     scroll-behavior: smooth;
 }
@@ -117,3 +121,24 @@ h3 {
 #retsept3 h3 {
     color: #f5e8d1
 }
+
+#retsept4 h3 {
+    color: #f5e8d1
+}
+
+#retsept5 h3 {
+    color: #f5e8d1
+}
+
+#retsept6 h3 {
+    color: #f5e8d1
+}
+
+#sretsept2 h3 {
+    color: #f5e8d1
+}
+
+#sretsept3 h3 {
+    color: #f5e8d1
+}
+
