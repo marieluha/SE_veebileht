@@ -268,3 +268,20 @@ h3 {
 .bold-text {
     font-weight: bold;
 }
+
+
+.magus_list, .soolane_list {
+    display: flex;
+    justify-content: center;
+}
+
+.magus_list ul, .soolane_list ul {
+    display: flex;
+    list-style: none;
+    padding: 0;
+}
+
+.magus_list li, .soolane_list li {
+    margin-right: 30px;
+    font-size: 17px;
+}
