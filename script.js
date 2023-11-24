@@ -1,4 +1,4 @@
-// allikas kust sain on vaja lisada siia veel
+// allikas: https://developer.mozilla.org/en-US/docs/Web/API/Element/scrollIntoView
 
 function kerigeRetseptiJuurde() {
     const retseptElement = document.getElementById("retsept1");
