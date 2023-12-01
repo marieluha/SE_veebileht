@@ -283,3 +283,8 @@ h3 {
     margin-right: 30px;
     font-size: 17px;
 }
+
+#recipeResults {
+    display: none;
+    margin-top: 20px;
+}
